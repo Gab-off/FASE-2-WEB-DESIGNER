@@ -24,7 +24,7 @@ Criar o layout visual (sem programação) de uma Landing Page, com base nos mate
 
 A landing page foi desenvolvida para ser visualmente atraente e altamente funcional, seguindo as diretrizes do desafio e o layout fornecido:
 
-![exercicio2/completo.jpg]
+![Layout completo](exercicio2/completo.jpg)
 
 1.  **Cabeçalho:**
     * No canto superior esquerdo, foi integrado o **logotipo do Residencial Bela Vista**, conforme a imagem. Embora a imagem forneça apenas a parte superior do logo, a implementação visa a completa visualização e reconhecimento da marca.
@@ -56,4 +56,4 @@ A landing page foi desenvolvida para ser visualmente atraente e altamente funcio
         * Informações de contato e legais da incorporadora.
 
 7. Uma observação sobre o cabeçalho, ele aparenta estar vazio, porém é pensado que ao scrollar, ele fique fixo e tenha uma leve alteração no design:
-    ![exercicio2/cabecalhoScroll.jpg]
+![Cabecalho ao scrollar](exercicio2/cabecalhoScroll.jpg)
