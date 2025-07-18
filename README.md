@@ -16,7 +16,7 @@ O trabalho concluído foi respeitar a paleta de cor das fontes dos textos (com e
 ![redesign 2](exercicio1/Redesign_2.png)
 
 O contraste para o texto que é algo com uma quantidade de letras alta para se ter uma leitura teve um tom que passa na estrutura de contraste. Houve um redesenho no botão, tentando manter a paleta de cor do pop up, sem ficar algo muito dissonante do resto, mas ainda sendo um botão, adicionando uma sombras e um degrade para dar uma sensação de profundidade:
-![contrast img](exercicio1/constrast.png)
+![contrast img](exercicio1/contrast.png)
 ## Exercício 2
 Criar o layout visual (sem programação) de uma Landing Page, com base nos materiais fornecidos.
 
@@ -57,3 +57,6 @@ A landing page foi desenvolvida para ser visualmente atraente e altamente funcio
 
 7. Uma observação sobre o cabeçalho, ele aparenta estar vazio, porém é pensado que ao scrollar, ele fique fixo e tenha uma leve alteração no design:
 ![Cabecalho ao scrollar](exercicio2/cabecalhoScroll.jpg)
+
+O design mobile ficou assim:
+![layout mobile](exercicio2/mobile.jpg)
